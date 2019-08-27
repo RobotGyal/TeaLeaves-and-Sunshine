@@ -4,9 +4,9 @@ This movie is about a sad panda and a sad potato drinking tea leaves alone.  She
 
 CAST
 ------
-Panda:      Jack Black
-Potato:     Kristen Schaal
-Rain:       Rainn Wilson
-Sun:        Amy Poehler
-Tree:       Will Ferrell
-Frog:       Kate McKinnon
+Panda:      Jack Black  
+Potato:     Kristen Schaal  
+Rain:       Rainn Wilson  
+Sun:        Amy Poehler  
+Tree:       Will Ferrell  
+Frog:       Kate McKinnon  
