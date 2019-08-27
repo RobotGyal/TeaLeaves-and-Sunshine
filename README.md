@@ -6,7 +6,7 @@ CAST
 ------
 Panda:      Jack Black  
 Potato:     Kristen Schaal  
-Rain:       Rainn Wilson  
-Sun:        Amy Poehler  
+Rain:       Captain Rainbow  
+Sun:        Dani  
 Tree:       Will Ferrell  
 Frog:       Kate McKinnon  
