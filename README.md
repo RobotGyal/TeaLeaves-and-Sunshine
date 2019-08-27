@@ -7,6 +7,6 @@ CAST
 Panda:      Jack Black
 Potato:     Kristen Schaal
 Rain:       Rainn Wilson
-Sun:        Kate McKinnon
+Sun:        Amy Poehler
 Tree:       Will Ferrell
-Frog:       Amy Poehler
+Frog:       Kate McKinnon
