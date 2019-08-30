@@ -10,3 +10,8 @@ Rain:       Captain Rainbow
 Sun:        Dani  
 Tree:       Will Ferrell  
 Frog:       Kate McKinnon  
+
+Rock: Rocky
+Cloud: Fluffy
+Lake: Flow
+Wolf: Rawr
